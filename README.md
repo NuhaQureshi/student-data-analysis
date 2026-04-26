@@ -1,3 +1,4 @@
+1st project
 # Student Data Analysis 📊
 
 This is my first Python project.
@@ -15,3 +16,9 @@ This is my first Python project.
 2. Open terminal
 3. Run:
    python analysis.py
+
+## 📊 Project 2: Student Grade System
+
+- Takes student name and marks as input  
+- Assigns grade (A/B/C/F)  
+- Displays performance message  
